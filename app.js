@@ -1,0 +1,1 @@
+!function(o){o.document.body.style.backgroundColor="silver"}(this);

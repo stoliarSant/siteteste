@@ -1,0 +1,1 @@
+var fs=require("fs");module.exports=function(e,r,i){fs.readFile(e,function(e,f){e?i(e):r(f)})};
